@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="logo.png" alt="Nelson Stiven Cataño Hurtado - CyberSecurity" width="600">
+  <img src="logo.png" alt="Nelson Stiven Cataño Hurtado - CyberSecurity" width="800">
   <br>
   <h1>¡Bienvenido a mi perfil de GitHub!</h1>
 </p>
